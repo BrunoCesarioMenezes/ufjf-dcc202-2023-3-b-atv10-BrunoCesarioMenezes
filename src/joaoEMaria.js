@@ -9,3 +9,11 @@ function getMaria (){
 function getJoao(){
     return joao;
 }
+
+function setMaria(y){
+    maria = y;
+}
+
+function setJoao(x){
+    joao = x;
+}
